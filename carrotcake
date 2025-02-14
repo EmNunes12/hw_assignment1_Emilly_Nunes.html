@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Brazilian carrot cake recipe"> 
+    <!-- HTML format including head, title, meta -->
+    <title>Brazilian Carrot Cake</title>
+</head>
+<body>
+<header>
+    <h1>Brazilian Carrot Cake Recipe</h1> 
+</header>
+<section>
+    <h2>The Best Carrot Cake Recipe You Can Make in Your Life!</h2> <!-- Improved wording for clarity. -->
+    <p>
+        The Brazilian carrot cake has its origins in traditional home baking, influenced by European recipes but adapted to local ingredients. Unlike the American version, which includes grated carrots for texture, the Brazilian carrot cake is made by blending carrots into the batter, giving it a smooth, vibrant orange color. It is typically described as soft, moist, and slightly sweet, with a delicate carrot flavor. It pairs perfectly with chocolate glaze and is loved for its simplicity and ease of preparation!
+    </p>
+    <!-- Little introduction to what a carrot cake is -->
+    <img src="https://www.guiadasemana.com.br/contentFiles/image/2021/09/FEA/67644_shutterstock-1931734334.jpg" alt="Traditional Brazilian carrot cake"> <!-- use of the tag alt-->
+</section>
+<div> <!-- Picture of a traditional Brazilian carrot cake -->
+    <h3>Ingredients</h3>
+    <ul>
+        <li>3 medium carrots</li>
+        <li>3 eggs</li>
+        <li>1/2 cup of sugar</li>
+        <li>2 cups of wheat flour</li>
+        <li>1 pinch of salt</li>
+        <li>1 cup of oil</li>
+        <li>1 tablespoon of baking powder</li>
+    </ul>
+</div>
+<div> <!-- First division: ingredients -->
+    <h4>How to Make It</h4>
+    <ul>
+        <li>In a blender, place 3 medium carrots, 3 eggs, 1 cup of vegetable oil, and 1/2 cup of sugar. Blend until smooth.</li> 
+        <li>In a bowl, place 2 cups of wheat flour, 1 pinch of salt, and 1 tablespoon of baking powder. Mix well.</li> 
+        <li>Then, add the blender mixture to the bowl.</li>
+        <li>Using a whisk, mix until smooth.</li>
+        <li>Transfer the batter to a greased and floured pan.</li> 
+        <li>Bake in a preheated oven at 180°C (350°F) for 40 minutes.</li> 
+    </ul>
+</div> <!-- Second division: how to prepare -->
+<p>
+    For more details, access the link to watch the video below:
+</p>
+<h5><a href="https://youtu.be/6vtWffXzOsQ?si=6WoJYVfr6mthciWO" target="_blank">Watch the video of the Brazilian carrot cake</a></h5> 
+</section>
+ <!-- Improved readability -->
+<!-- Video showing step by step --> 
+<!-- Footer -->
+<footer>
+    <p>&copy; 2025 Carrot Cake Recipe</p> 
+</footer>
+</body>
+</html>
